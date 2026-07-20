@@ -1,0 +1,6 @@
+build/
+.venv/
+output/*.csv
+output/*.png
+__pycache__/
+
